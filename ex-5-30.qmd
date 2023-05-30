@@ -1,0 +1,54 @@
+## Setup
+
+First, we need to load some packages. Click the play button to run the code in the block below (remember, you only need to do this once per session).
+
+```{r}
+library(tidyverse)
+library(openintro)
+```
+
+## Q1: Describing categorical data
+
+Let's look at the `employment` variable of the `acs12` data set. In the chunk below, write some code to determine the response options for this variable.
+
+```{r}
+
+```
+
+How many people are in each category? How many missing values are there?
+
+```{r}
+
+```
+
+Create a table that shows the number of people of each gender in each employment category. Does it look like gender and employment status are related?
+
+```{r}
+
+```
+
+## Q2: Describing numeric data
+
+Now let's look at the `hrs_work` variable (the number of hours respondents work in a week)
+
+What is the mean of this variable? What is the median?
+
+```{r}
+
+```
+
+What is the standard deviation?
+
+```{r}
+
+```
+
+What proportion of people in the data set are missing information (have NAs) for this variable?
+
+```{r}
+
+```
+
+## Submission
+
+When you are done, commit your changes and push them to GitHub! ([instructions](https://soc333-sum23.github.io/computing-clonerepo.html))
