@@ -29,7 +29,7 @@ Create a table that shows the number of people of each gender in each employment
 
 ## Q2: Describing numeric data
 
-Now let's look at the `hrs_work` variable (the number of hours respondents work in a week)
+Now let's look at the `hrs_work` variable in the same data set (the number of hours respondents work in a week)
 
 What is the mean of this variable? What is the median?
 
